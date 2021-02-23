@@ -7,4 +7,4 @@
 * Transfer Learning: **pneumonia** detection
 
 
-Dislaimer: Ongoing project! After the this first prototype, it will be assessed for its use in a project, between Madrid HUFA Hospital and Madrid URJC University, for instructing Guatemala and Peru physicians in COVID-19 detection.
+Dislaimer: Ongoing project! After this very first prototype, the project will be assessed for its use in a project, between Madrid HUFA Hospital and Madrid URJC University, for instructing Guatemala and Peru physicians in COVID-19 detection.
